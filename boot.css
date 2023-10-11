@@ -16,7 +16,6 @@
 .hh{
     display: flex;
     justify-content: center;
-    margin-top: 15px;
     }
 
 .human{
@@ -26,7 +25,7 @@
     top: 20px;
 }
 
-.names{
+.na{
     display: flex;
     justify-content: center;
     margin-top: 20px;
@@ -35,7 +34,7 @@
     font-size: 20px;
 }
 
-.names1{
+.na1{
     display: flex;
     justify-content: center;
     margin-top: 12px;
