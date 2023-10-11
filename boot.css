@@ -9,13 +9,14 @@
 
 .con{
     border: 1px solid black;
-    height: 580px;
+    height: 100vh;
     width: 100%;
     background-color: rgb(1, 1, 46);
 }
 .hh{
     display: flex;
     justify-content: center;
+    margin-top: 15px;
     }
 
 .human{
